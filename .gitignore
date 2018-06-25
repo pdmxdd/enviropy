@@ -1,0 +1,6 @@
+foo.py
+bar.py
+.enviropy
+.idea/
+__pycache__/
+env_envpy/
